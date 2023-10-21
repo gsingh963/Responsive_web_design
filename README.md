@@ -1,2 +1,4 @@
 # Responsive_web_design
-Author - Gurjeet Singh
+This is my first git respository
+<br>
+Author - Gurjeet Singh(Seneca College)
